@@ -22,16 +22,3 @@ The specs are plain Markdown and framework-agnostic. They work as a design revie
 | [WCAG 2.2 AAA](WCAG-AAA-spec.md) | WCAG 2.2 Level AAA as project-ready rules, with a required format for documenting any criterion a view can't meet. |
 
 The equity specs build on these. WCAG covers whether a screen is operable with assistive technology. The disability and ableism spec covers whether the product treats disabled people as equals, which a screen can fail while passing every WCAG criterion.
-
-## Companion specs not in this repo
-
-Some rules cite specs from a wider set that isn't published here. Those references are left as written so the rules keep their meaning:
-
-- `../research/field-research-synthesis-spec.md`
-- `../interface/state-coverage-spec.md`
-- `../interface/forms-and-data-entry-spec.md`
-- `../interface/notifications-and-messaging-spec.md`
-- `../content/voice-and-content-spec.md`
-- `../data/privacy-consent-and-data-handling-spec.md`
-- `../visual/design-tokens-and-theming-spec.md`
-- `../illustrations/scribe-illustrations-spec.md`
