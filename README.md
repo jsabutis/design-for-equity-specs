@@ -14,6 +14,15 @@ The specs are plain Markdown and framework-agnostic. They work as a design revie
 | [Constrained path](constrained-path-spec.md) | The most constrained user in the audience completes every core task on the default path, with no separate lite edition. |
 | [AI in design and product](ai-in-design-and-product-spec.md) | AI used in the product, and in building it, doesn't flatten the product toward its training-data defaults or become unaccountable to the person its output acts on. |
 
+## Accessibility
+
+| Spec | Conformance target |
+|---|---|
+| [WCAG 2.2 AA](WCAG-AA-spec.md) | WCAG 2.2 Level AA as project-ready rules. The baseline every web UI should meet. |
+| [WCAG 2.2 AAA](WCAG-AAA-spec.md) | WCAG 2.2 Level AAA as project-ready rules, with a required format for documenting any criterion a view can't meet. |
+
+The equity specs build on these. WCAG covers whether a screen is operable with assistive technology. The disability and ableism spec covers whether the product treats disabled people as equals, which a screen can fail while passing every WCAG criterion.
+
 ## Companion specs not in this repo
 
 Some rules cite specs from a wider set that isn't published here. Those references are left as written so the rules keep their meaning:
