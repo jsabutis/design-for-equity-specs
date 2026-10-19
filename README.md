@@ -12,6 +12,7 @@ The specs are plain Markdown and framework-agnostic. They work as a design revie
 | [Gender bias](gender-bias-spec.md) | No decision, string, default, or rule disadvantages women, and no design assumes a male user, device owner, or staff member. |
 | [Disability and ableism](disability-and-ableism-spec.md) | No decision, string, image, moderation rule, or model output treats disabled people as lesser, as inspirational, or as absent. |
 | [Constrained path](constrained-path-spec.md) | The most constrained user in the audience completes every core task on the default path, with no separate lite edition. |
+| [Color by country](color-by-country-spec.md) | No shipped surface uses a color or pairing its market reads as political or oppressive, and no state is told apart by color alone. |
 | [AI in design and product](ai-in-design-and-product-spec.md) | AI used in the product, and in building it, doesn't flatten the product toward its training-data defaults or become unaccountable to the person its output acts on. |
 
 ## Accessibility
