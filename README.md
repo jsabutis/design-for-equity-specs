@@ -21,5 +21,6 @@ The specs are plain Markdown and framework-agnostic. They work as a design revie
 |---|---|
 | [WCAG 2.2 AA](WCAG-AA-spec.md) | WCAG 2.2 Level AA as project-ready rules. The baseline every web UI should meet. |
 | [WCAG 2.2 AAA](WCAG-AAA-spec.md) | WCAG 2.2 Level AAA as project-ready rules, with a required format for documenting any criterion a view can't meet. |
+| [Color vision deficiency](color-vision-deficiency-spec.md) | Every person with a color vision deficiency can complete every task, read every state, and interpret every chart without asking what a color means. |
 
 The equity specs build on these. WCAG covers whether a screen is operable with assistive technology. The disability and ableism spec covers whether the product treats disabled people as equals, which a screen can fail while passing every WCAG criterion.
