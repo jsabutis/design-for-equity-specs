@@ -3,7 +3,7 @@
 **Conformance target:** No shipped surface uses a color or color pairing that the market it serves reads as political, oppressive, or offensive, and no state is told apart by color alone
 **Audience:** Design, brand, marketing, engineering, and whoever owns the release gate
 **Scope:** Product screens, printed receipts and tickets, charts, decks, marketing, packaging, and brand marks shipped into a named market
-**Companion specs:** `bias-audit-spec.md` (§2 axis register), `disability-and-ableism-spec.md`, `WCAG-AA-spec.md` (1.4.1 Use of Color), `WCAG-AAA-spec.md`
+**Companion specs:** `bias-audit-spec.md` (§2 axis register), `color-vision-deficiency-spec.md` (redundant cues, lightness separation, chart palettes), `disability-and-ableism-spec.md`, `WCAG-AA-spec.md` (1.4.1 Use of Color), `WCAG-AAA-spec.md`
 **Register date:** 2026-10-20. Every country entry was checked against a source opened on or before that date; the review cadence in section 3 says when each is due again.
 
 Terms **MUST**, **SHOULD**, and **MAY** follow [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
